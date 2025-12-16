@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Platform](https://img.shields.io/badge/Platform-Ubuntu%2FLinux-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Prototype-yellow)
 
 **SysOpt**, Ubuntu/Linux sistemlerinin performansını yapay zeka ile izleyen, anomalileri tespit eden ve darboğaz anlarında sistemi otomatik olarak optimize eden akıllı bir araçtır.
